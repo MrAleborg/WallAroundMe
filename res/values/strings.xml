@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WAAM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menuRefresh">Refresh</string>
+    <string name="menuEdit">Edit</string>
+    <color name="white">#ffffff</color>
+    <color name="Rose">#ff9898</color>
+    <color name="Bleu">#63b8ff</color>
+    <string name="Gender">Sexe</string>
+    <string name="pagination">Pagination</string>
+    <string name="activatePagination">Activer la pagination</string>
+    <string-array name="Genders">
+        <item >Male</item>
+        <item >Female</item>
+    </string-array>
+    <string name="GenderPrefList">Sexe</string>
+    <string-array name="GenderValues">
+        <item >1</item>
+        <item >2</item>
+    </string-array>
+    <string name="Radius">Rayon d\'action</string>
+    <string name="Next">Next</string>
+    <string name="Prev">Prev</string>
+    <string name="Edit_Message">Nouveau message</string>
+    <string name="messageTV">Faites passer votre message</string>
+    <string name="Send">Envoyer</string>
+
+</resources>
